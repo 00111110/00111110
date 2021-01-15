@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Roman
 
+![](https://komarev.com/ghpvc/?username=RomanBoyd)
+
 ## I'm a FrontEnd Developer
 - 💪 I like to write code
 - 🚲 I like to ride a bike
