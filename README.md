@@ -2,7 +2,7 @@
 
 ## I'm a FrontEnd Developer
 - 💪 I like to write code
-- 🚲 I love to ride the bike
+- 🚲 I like to ride the bike
 - ⚡ I am constantly learning new things
 
 ### Languages and Tools:
