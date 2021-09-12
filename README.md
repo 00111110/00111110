@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=RomanBoyd)
 
-## I'm a FrontEnd Developer
+## Trust Me, I’m a Frontend Developer
 - 💪 I like to write code
 - ⚡ I am constantly learning new things
 
