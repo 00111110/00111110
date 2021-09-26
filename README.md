@@ -9,7 +9,7 @@
 
 ###
 ###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=functrl)
+&nbsp; &nbsp; &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=functrl&custom_title=My&nbsp;programming&nbsp;languages)
 
 
 ### 🛠 Tech Stack
