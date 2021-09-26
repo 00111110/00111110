@@ -28,4 +28,4 @@
 
 ### 🔗  <b>Connect with me</b>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue)](www.linkedin.com/in/roman177)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/roman177)
