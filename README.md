@@ -26,5 +26,5 @@
 
 ### 🤝🏻 Connect with me
 
-&nbsp; &nbsp; &nbsp; &nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/roman177)
+&nbsp; &nbsp; &nbsp; &nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/romanboyd)
 &nbsp; &nbsp; [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:cityman177@gmail.com)
