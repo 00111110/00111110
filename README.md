@@ -1,20 +1,19 @@
 ### Hi there 👋, I'm Roman
 
-![](https://komarev.com/ghpvc/?username=functrl)
 
-## Trust Me, I’m a Frontend Developer 👨🏻‍💻
+### Trust Me, I’m a Frontend Developer 👨🏻‍💻
 - 💪  I’m currently working on something cool
 - 🎓  I’m currently learning Angular
-- ⚡  I am constantly learning new things
+- ⚡  I like to explore new technologies
 
-###
-###
+
+
 &nbsp; &nbsp; &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=functrl&custom_title=My&nbsp;programming&nbsp;languages)
 
 
 ### 🛠 Tech Stack
 
-![Angular](https://img.shields.io/badge/-Angular-white?style=flat-square&logo=angular&logoColor=red)
+&nbsp; &nbsp; &nbsp; &nbsp; ![Angular](https://img.shields.io/badge/-Angular-white?style=flat-square&logo=angular&logoColor=red)
 ![TS](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
 ![JS](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-white?style=flat-square&logo=html5&logoColor=red)
@@ -25,6 +24,7 @@
 ![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 
 
-### 🤝🏻  Connect with me
+### 🤝🏻 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/roman177)
+&nbsp; &nbsp; &nbsp; &nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/roman177)
+&nbsp; &nbsp; [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:cityman177@gmail.com)
