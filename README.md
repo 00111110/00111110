@@ -8,7 +8,7 @@
 
 
 
-&nbsp; &nbsp; &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00111110&custom_title=My&nbsp;programming&nbsp;languages)
+&nbsp; &nbsp; &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jedi-dev&custom_title=My&nbsp;programming&nbsp;languages)
 
 
 ### 🛠 Tech Stack
