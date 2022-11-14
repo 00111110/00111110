@@ -3,7 +3,7 @@
 
 ### Trust Me, I’m a Frontend Developer 👨🏻‍💻
 - 💪  I’m currently working on something cool
-- 🎓  I’m currently learning React
+- 🎓  I’m currently learning Angular
 - ⚡  I like to explore new technologies
 
 
@@ -13,7 +13,7 @@
 
 ### 🛠 Tech Stack
 
-&nbsp; &nbsp; &nbsp; &nbsp; ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react&logoColor=blue)
+&nbsp; &nbsp; &nbsp; &nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-white?style=flat-square&logo=angular&logoColor=red)
 ![TS](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
 ![JS](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
