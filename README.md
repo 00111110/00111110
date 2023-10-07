@@ -15,7 +15,7 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp;
 ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react&logoColor=blue)
-![Redux](https://img.shields.io/badge/-Redux-white?style=flat-square&logo=redux)
+![Redux](https://img.shields.io/badge/-Redux-white?style=flat-square&logo=redux&logoColor=blue)
 ![TS](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
 ![JS](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-white?style=flat-square&logo=html5&logoColor=red)
